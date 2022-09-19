@@ -62,7 +62,12 @@
 
 
 ## 🗺 ER Diagram
-![image](https://user-images.githubusercontent.com/95524472/190455062-86733cb8-dc28-491c-a805-6750480f9bc6.png)
+<details>
+<summary>ER Diagram</summary>
+<div markdown="1">
+    <img src="https://user-images.githubusercontent.com/95524472/190455062-86733cb8-dc28-491c-a805-6750480f9bc6.png" />
+</div>
+</details>
 
 <br />
 <br />
