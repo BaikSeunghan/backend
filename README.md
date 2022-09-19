@@ -20,6 +20,7 @@
 - 2022년 8월 5일 ~ 2022년 9월 16일
 
 <br />
+<br />
 
 ## :hammer_and_wrench: 기술 스택
 
@@ -78,20 +79,20 @@
 - WebRTC 통신을 위한 `HTTPS` 적용을 위해 `Nginx`을 이용
 - `Sentry` 의 Application 에러 트래킹 기능을 이용해서 에러 해결
 
+<br />
+
 ## ⛔️ Trouble Shooting
 
 
 ```
-1. JPA에서 데이터 조회 시 발생하는 n+1 문제
+1. JPA에서 데이터 조회 시 발생하는 N+1 문제
 ```
 > ![image](https://user-images.githubusercontent.com/95524472/191008624-c01db234-0b68-46d8-9fb3-ddbab16e13ce.png)
 
 <br />
-<br />
-
 
 ```
-2. 파일 업로드 시, 1mb 이상의 파일이 업로드 되지 않는 문제 (NginX)
+2. 파일 업로드 시, 1mb 이상의 파일이 업로드 되지 않는 문제 (Nginx)
 ```
 > 
 > ❗️ 문제 : 1mb 미만의 파일은 정상적으로 업로드 되지만, 1mb 이상은 업로드 되지 않음
