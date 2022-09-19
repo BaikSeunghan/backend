@@ -84,7 +84,7 @@
 ```
 1. JPA에서 데이터 조회 시 발생하는 n+1 문제
 ```
-> ![image](https://user-images.githubusercontent.com/95524472/190856075-7ea865e7-9e6e-469b-8f3c-9ed1462e0072.png)
+> ![image](https://user-images.githubusercontent.com/95524472/191008624-c01db234-0b68-46d8-9fb3-ddbab16e13ce.png)
 
 <br />
 <br />
